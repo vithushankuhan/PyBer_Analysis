@@ -19,3 +19,9 @@ This data clearly shows the following:
 - The costs for using PyBer's ridesharing service is greater for riders in rural cities than users in urban cities.
 
 ## Summary
+
+In summary, the following suggesstions should be taken into consideration by PyBer executives to improve PyBer's ridesharing business.
+
+1. PyBer should focus on recruiting more drivers in rural cities. Currently, rural cities have very few drivers with high demand for redesharing services. This leads to higher prices for user which can create problems in the future. Citizens could stop using the service due to higher prices or even leave for a comeptitor. Therefore by bringing in more drivers, PyBer is able to slowly reduce prices.
+2. Since we also know that the cost of using PyBer's serivces is much more expensive in rural areas, it would be benefitial to put some sort of cap or set price on the fares users can face in all three cities. This could take some time to figre out, but in the long run, it could prove to be benefitial as PyBer could see more users in rural areas. 
+3. A third suggesstion would be to provide promotional fares for those living in rural areas during times when usage is high. This could drastically improve the number of users on the app as well as provie the company with some publicity.
